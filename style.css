@@ -1,3 +1,45 @@
 /* nejsme vcerejsi, pouzivame moderni a intuitivni box model */
 html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
+/*BARVY
+tmavá #223843
+světlý text #EFF1F3
+světlá růžová pozadí #D8B4A0
+tmavá růžová boxy #D77A61
+šedivá světlá pozadí #DBD3D8
+*/
+body {
+    background-color: #D8B4A0;
+}
+h1 {
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #EFF1F3;
+    margin: 0 20px;
+    
+}
+a:hover {
+    color:#2d3763;
+}
+nav {
+    background-color: #223843;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+.medailonek {
+    display: block;
+    width: 90%;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+}
+.textovepole {
+    display: block;
+    position: relative;
+    top: 20px;
+    background-color: #D77A61;
+}
