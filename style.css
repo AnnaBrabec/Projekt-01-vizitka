@@ -8,11 +8,10 @@ světlá růžová pozadí #D8B4A0
 tmavá růžová boxy #D77A61
 šedivá světlá pozadí #DBD3D8
 */
-body {
-    background-color: #D8B4A0;
-}
 h1 {
     text-align: center;
+    padding-top: 30px;
+    color: #D77A61;
 }
 nav a {
     text-decoration: none;
@@ -21,7 +20,7 @@ nav a {
     
 }
 a:hover {
-    color:#2d3763;
+    color:#D77A61;
 }
 nav {
     background-color: #223843;
@@ -29,17 +28,29 @@ nav {
     text-align: center;
     margin: auto;
     width: 90%;
+    border-radius: 10px;
 }
 .medailonek {
     display: block;
-    width: 90%;
     background-color: #DBD3D8;
     margin: auto;
     width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
 }
-.textovepole {
-    display: block;
+img {
+    width: 30%;
+    height: 30%;
     position: relative;
-    top: 20px;
-    background-color: #D77A61;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
 }
+p {
+    padding: 30px;
+}
+

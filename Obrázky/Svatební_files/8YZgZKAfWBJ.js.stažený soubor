@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
-
-__d("MNTRemoveActionHandler",["DOM","MNTTreeMutationUtils"],function(a,b,c,d,e,f,g){function a(a,b){b=b.getMutationScope().getElementById(a["target-id"]);if(b){var c=d("MNTTreeMutationUtils").getDescendantNTIDs(b);c.push(a["target-id"]);d("DOM").remove(b);d("MNTTreeMutationUtils").removeActionsFromIDs(c)}}g.performAction=a},98);

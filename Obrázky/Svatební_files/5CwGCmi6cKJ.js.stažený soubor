@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
-
-__d("MNTAnnounceActionHandler",["Stratcom"],function(a,b,c,d,e,f,g){function a(a){c("Stratcom").invoke(a.key,null,a.data)}g.performAction=a},98);
