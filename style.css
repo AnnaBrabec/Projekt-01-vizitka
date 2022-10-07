@@ -53,4 +53,14 @@ img {
 p {
     padding: 30px;
 }
-
+footer {
+    background-color:#223843;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    border-radius: 10px;
+}
+footer p {
+    color: #EFF1F3;
+}
