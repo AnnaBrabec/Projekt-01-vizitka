@@ -40,7 +40,7 @@ nav {
     padding-top: 10px;
     border-radius: 10px;
 }
-img {
+body img {
     width: 30%;
     height: 30%;
     position: relative;
@@ -56,9 +56,19 @@ p {
 footer {
     background-color:#223843;
     padding: 20px;
-    text-align: center;
+    text-align: left;
     margin: auto;
     width: 90%;
+    height: 60px;
     border-radius: 10px;
     color: #DBD3D8;
+    position: relative;
+}
+footer img {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+    bottom: 55px;
+
 }
