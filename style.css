@@ -63,11 +63,16 @@ footer {
     color: #DBD3D8;
     position: relative;
 }
-footer img {
+.facebook {
     position: relative;
-    top: -55px;
-    height: 30px;
-    width: 30px;
-    border-style: none;
-    float: left;
+    height: 100px;
+    width: 100px;
+    top:-55px;
+}
+.email {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    top:-155px;
+    left: 55px;
 }
