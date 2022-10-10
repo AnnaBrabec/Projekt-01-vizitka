@@ -56,7 +56,6 @@ p {
 footer {
     background-color:#223843;
     padding: 20px;
-    text-align: left;
     margin: auto;
     width: 90%;
     height: 60px;
@@ -66,9 +65,9 @@ footer {
 }
 footer img {
     position: relative;
+    top: -55px;
     height: 30px;
     width: 30px;
     border-style: none;
-    bottom: 55px;
-
+    float: left;
 }
