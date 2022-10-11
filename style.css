@@ -40,7 +40,7 @@ nav {
     padding-top: 10px;
     border-radius: 10px;
 }
-body img {
+.medailonek img {
     width: 30%;
     height: 30%;
     position: relative;
@@ -63,20 +63,162 @@ footer {
     color: #DBD3D8;
     position: relative;
 }
+
+footer img {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border-radius: 50%;
+}
+
 .facebook {
     position: relative;
-    height: 100px;
-    width: 100px;
-    top:-55px;
+    top: -10px;
 }
+
 .email {
     position: relative;
-    height: 100px;
-    width: 100px;
-    top:-155px;
-    left: 55px;
+    top: -53px;
+    left: 50px;
 }
 
 .Hoki {
-    
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;  
+}
+.Hoki img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Julie {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Julie img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Jaja {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Jaja img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Buštík {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Buštík img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Jarmila {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Jarmila img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Kvakažbluňk {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Kvakažbluňk img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
+}
+.Ptáci {
+    display: block;
+    background-color: #DBD3D8;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px; 
+}
+.Ptáci img {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    margin: auto;
+    margin-top: 50px;
 }
