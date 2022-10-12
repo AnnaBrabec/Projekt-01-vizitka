@@ -53,172 +53,61 @@ nav {
 p {
     padding: 30px;
 }
-footer {
-    background-color:#223843;
-    padding: 20px;
-    margin: auto;
+.kontakt {
+    display: flex;
+    justify-content: center;
+    background-color: #223843;
+    border-radius: 10px;
     width: 90%;
     height: 60px;
+    margin: auto;
+    align-items: center;
+}
+.odkaz img {
+    padding: 20px;
+    border-radius: 50px;
+    height: 70px;
+}
+
+.kontejner {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    flex-basis: 150px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-top: 20px;
+}
+.kontejner img {
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #223843;
+    width: 200px;
+    height: 200px;
+}
+.zvire {
+    flex-basis: 250px;
+    justify-content: center;
     border-radius: 10px;
-    color: #DBD3D8;
-    position: relative;
+    text-align: center;
+    padding: 20px;
+    background-color: #DBD3D8;
+    margin: 20px;
+}
+.stramberk {
+    display: flex;
+    background-color: #DBD3D8;
+    justify-content: center;
+    border-radius: 20px;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.stramberk img {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
 }
 
-footer img {
-    width: 40px;
-    height: 40px;
-    position: relative;
-    border-radius: 50%;
-}
 
-.facebook {
-    position: relative;
-    top: -10px;
-}
-
-.email {
-    position: relative;
-    top: -53px;
-    left: 50px;
-}
-
-.Hoki {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px;  
-}
-.Hoki img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Julie {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Julie img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Jaja {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Jaja img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Buštík {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Buštík img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Jarmila {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Jarmila img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Kvakažbluňk {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Kvakažbluňk img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
-.Ptáci {
-    display: block;
-    background-color: #DBD3D8;
-    margin: auto;
-    width: 60%;
-    margin-top: 20px;
-    text-align: center;
-    padding-top: 10px;
-    border-radius: 10px; 
-}
-.Ptáci img {
-    width: 30%;
-    height: 30%;
-    position: relative;
-    border-radius: 50%;
-    border-style: dotted;
-    border-color: #223843;
-    margin: auto;
-    margin-top: 50px;
-}
